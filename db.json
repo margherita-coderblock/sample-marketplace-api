@@ -1,0 +1,68 @@
+{
+  "collection_data": [
+    {
+      "id": "land",
+      "slug": "land",
+      "title": "Land",
+      "image": "/images/avatars/avatar_1.jpg",
+      "icon": true,
+      "creator": "051_Hart",
+      "text": "Unique, fully 3D and built to unite the design multiverse. Designed and styled by Digimental.",
+      "amount": "7,080.95",
+      "details": [
+        {
+          "id": "07.2K",
+          "detailsNumber": "7.2K",
+          "detailsText": "Items"
+        },
+        {
+          "id": "15.3K",
+          "detailsNumber": "5.3K",
+          "detailsText": "Owners"
+        },
+        {
+          "id": "22.55",
+          "detailsNumber": "2.55",
+          "detailsText": "Floor Price"
+        },
+        {
+          "id": "317.2K",
+          "detailsNumber": "17.2K",
+          "detailsText": "Volume Traded"
+        }
+      ]
+    },
+    {
+      "id": "estate",
+      "slug": "estate",
+      "title": "Estate",
+      "image": "/images/avatars/avatar_2.jpg",
+      "icon": true,
+      "creator": "Wow Frens",
+      "text": "Unique, fully 3D and built to unite the design multiverse. Designed and styled by Digimental.",
+      "details": [
+        {
+          "id": "07.2K",
+          "detailsNumber": "7.2K",
+          "detailsText": "Items"
+        },
+        {
+          "id": "15.3K",
+          "detailsNumber": "5.3K",
+          "detailsText": "Owners"
+        },
+        {
+          "id": "22.55",
+          "detailsNumber": "2.55",
+          "detailsText": "Floor Price"
+        },
+        {
+          "id": "317.2K",
+          "detailsNumber": "17.2K",
+          "detailsText": "Volume Traded"
+        }
+      ],
+      "amount": "6,548,133"
+    }
+  ]
+}
